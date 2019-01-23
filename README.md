@@ -3,7 +3,7 @@
 
 ## More Info
 
-Try to play against my pretty strong AI player. :) (no GUI so feel free to build one if you want!)
+Try to play against my pretty strong AI player. :) (no GUI so feel free to build one!)
 
 ## Technology
 
